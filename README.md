@@ -1,4 +1,4 @@
-# React + Vite using JAVASCRIPT ( HOW TO USE CONTEXT )
+# React + Vite using JAVASCRIPT(HOW TO USE CONTEXT)
 
   
 
